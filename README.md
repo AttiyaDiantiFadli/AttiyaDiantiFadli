@@ -1,11 +1,11 @@
 <img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h1 align="center">Hi 👋, I'm Attiya Dianti Fadli</h1>
-<h3 align="center">I am a fourth semester student pursuing a bachelor's degree in informatics engineering at Bengkulu University. I want to expand my knowledge and skills in the field of programming. I believe that continuous learning and practical experience are the keys to becoming proficient in programming languages ​​and software development.</h3>
+<h3 align="center">I am a sixth semester student pursuing my undergraduate degree in Informatics Engineering at Bengkulu University. I want to develop my knowledge and skills in machine learning, especially data analysis. I believe that continuous learning and practical experience are the keys to mastering data processing, statistical modeling, and machine learning algorithm development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attiyadiantifadli&label=Profile%20views&color=0e75b6&style=flat" alt="attiyadiantifadli" /> </p>
 
-- 🌱 I’m currently learning **about programming and computer networks. In programming, I learned how to write code to create apps and websites. Meanwhile in computer networks, I am learning how to organize and manage infrastructure to connect computers. With these skills, I hope to pursue an exciting career in the IT industry.**
+- 🌱 I’m currently learning about data analysis and machine learning. In data analysis, I learn how to process, clean, and interpret data to extract valuable insights. Meanwhile, in machine learning, I study algorithms and models to develop predictive systems. With these skills, I hope to pursue an exciting career in the field of data science and artificial intelligence.**
 
 - 💬 Ask me about **Android, MEARN**
 
