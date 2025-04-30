@@ -1,4 +1,3 @@
-<img align="center" alt="Coder GIF" src="https://indoanalytica.com/static/images/bannerr.gif" />
 <h1 align="center">Hi 👋, I'm Attiya Dianti Fadli</h1>
 <h3 align="center">I am a sixth semester student pursuing my undergraduate degree in Informatics Engineering at Bengkulu University. I want to develop my knowledge and skills in machine learning, especially data analysis. I believe that continuous learning and practical experience are the keys to mastering data processing, statistical modeling, and machine learning algorithm development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
