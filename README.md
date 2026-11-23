@@ -52,7 +52,7 @@ Through my experience as a Data Science Facilitator and Computer Lab Teaching As
 #### Web Development & Programming
 - Python
 - PHP
-- Laravel 11
+- Laravel
 - HTML
 - CSS
 - JavaScript
