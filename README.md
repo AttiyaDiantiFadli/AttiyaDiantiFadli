@@ -57,8 +57,6 @@ Through my experience as a Data Science Facilitator and Computer Lab Teaching As
 - CSS
 - JavaScript
 - Streamlit
-- FastAPI
-- REST API
 
 #### Database & Tools
 - MySQL
